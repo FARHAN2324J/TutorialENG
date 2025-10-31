@@ -1,12 +1,12 @@
 @import "tailwindcss";
 
 @font-face {
-    font-family: Persian;
-    src: url("./assets/fonts/Rubik-Medium.ttf");
+    font-family: Rubik;
+    src: url("./assets/fonts/Rubik-Regular.ttf");
 }
 
 
 
 body {
-    font-family: 'Persian', sans-serif;
+    font-family: 'Rubik', sans-serif;
 }

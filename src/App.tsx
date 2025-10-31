@@ -278,7 +278,7 @@ export default function GrammarCards() {
       <main className="min-h-screen bg-gradient-to-b from-slate-50 to-white p-8">
         <div className="max-w-6xl mx-auto">
           <header className="mb-8">
-            <h1 className="text-4xl font-extrabold tracking-tight mb-2">
+            <h1 className="text-4xl  tracking-tight mb-2">
               آموزش گرامر — کارت‌ها
             </h1>
             <p className="text-gray-600">
