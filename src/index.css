@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: Persian;
+    src: url("./assets/fonts/Rubik-Medium.ttf");
+}
+
+
+
+body {
+    font-family: 'Persian', sans-serif;
+}
