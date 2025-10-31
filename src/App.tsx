@@ -260,7 +260,7 @@ small -> smaller -> smallest`,
   },
 ];
 
-export default function GrammarCards(): JSX.Element {
+export default function GrammarCards() {
   return (
     <div className="min-h-screen w-full relative">
       <div
